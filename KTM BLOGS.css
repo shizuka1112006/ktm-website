@@ -1,0 +1,13 @@
+.g{
+     position: absolute;
+     margin-left: 60%;
+     margin-top: -600px;
+     
+    
+}
+
+video::-webkit-media-controls {
+    display: none ;
+  }
+
+ 
